@@ -2,7 +2,7 @@
 <img src = "banner.gif" style = "width: 1600px; height: 400px;">
 <h1 align="center">Hello there 👋, I'm Tech Titan</h1>
 <h2 align="center">An AI Wizard From Earth 🌏</h2>
-<img align="right" alt="AI" width="200" src="ai.jpg">
+<img align="right" alt="AI" width="300" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/media/01ac4ec5340e8e7f0b3c53f88a22e38a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crownedhead06&label=Profile%20views&color=0e75b6&style=flat" alt="crownedhead06" /> </p>
 
