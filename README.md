@@ -1,5 +1,5 @@
 <!-- [![MasterHead](banner.gif)](https://techtitan.carrd.co) -->
-<img src = "banner.gif" style = "width: 1600px; height: 400px;">
+<img src = "https://miro.medium.com/v2/resize:fit:1400/1*bhFifratH9DjKqMBTeQG5A.gif" style = "width: 1600px; height: 500px;">
 <h1 align="center">Hello there 👋, I'm Tech Titan</h1>
 <h2 align="center">An AI Wizard From Earth 🌏</h2>
 <img align="right" alt="AI" width="300" src="https://cdn.dribbble.com/users/3651832/screenshots/7058203/media/01ac4ec5340e8e7f0b3c53f88a22e38a.gif">
