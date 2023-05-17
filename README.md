@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **different aspects of Artificial Intelligence 🤖**
 
-- 📫 You can reach to me at **techtitanbot@gmail.com**
+- 📫 You can reach out to me at **techtitanbot@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
